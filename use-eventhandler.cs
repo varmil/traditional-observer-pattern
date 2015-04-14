@@ -1,5 +1,5 @@
 /**
- * DataBinding Example
+ * 未完成。試行錯誤した痕跡だけ残す。
  * 結局これだと、上手くまとめられない（Updateという名前のHandlerだけでは、どのデータが更新されたのかわからないので）
  */
 using UnityEngine;
